@@ -1,4 +1,4 @@
-# G-Engine AZN Mağaza (Yeni Dizayn)
+# G-Engine Woocommerce Plugin
 
 A WordPress + WooCommerce plugin that integrates the **G-Engine API** (`api.g-engine.net/v2.1`) to power a full-featured Azerbaijani game top-up and gift card shop — with AZN pricing, custom shortcodes, product sync, and live order processing.
 
